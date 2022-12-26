@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+    background-color: yellow;
+    font-size: 84px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
